@@ -10,16 +10,16 @@
 	},
 	"keywords": [],
 	"dependencies": {
-		"@react-router/node": "7.4.0",
-		"@react-router/serve": "7.4.0",
+		"@react-router/node": "7.4.1",
+		"@react-router/serve": "7.4.1",
 		"isbot": "5.1.25",
 		"react": "19.0.0",
 		"react-dom": "19.0.0",
-		"react-router": "7.4.0",
+		"react-router": "7.4.1",
 		"@repo/ui-react": "workspace:*"
 	},
 	"devDependencies": {
-		"@react-router/dev": "7.4.0",
+		"@react-router/dev": "7.4.1",
 		"vite": "6.2.3",
 		"@types/node": "22",
 		"@types/react": "19.0.12",
