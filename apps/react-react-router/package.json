@@ -24,7 +24,7 @@
 		"@types/node": "22",
 		"@types/react": "19.1.0",
 		"@types/react-dom": "19.1.1",
-		"typescript": "5.8.2",
+		"typescript": "5.8.3",
 		"react-router-devtools": "1.1.9",
 		"vite-tsconfig-paths": "5.1.4"
 	}
