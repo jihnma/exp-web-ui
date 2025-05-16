@@ -21,7 +21,7 @@
 	},
 	"devDependencies": {
 		"@types/react": "19.1.4",
-		"tsup": "8.4.0",
+		"tsup": "8.5.0",
 		"typescript": "5.8.3"
 	},
 	"dependencies": {
