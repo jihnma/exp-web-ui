@@ -20,7 +20,7 @@
 		"build": "rm -rf dist && tsup"
 	},
 	"devDependencies": {
-		"@types/react": "19.1.4",
+		"@types/react": "19.1.5",
 		"tsup": "8.5.0",
 		"typescript": "5.8.3"
 	},
