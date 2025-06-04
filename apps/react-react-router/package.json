@@ -23,7 +23,7 @@
 		"vite": "6.3.5",
 		"@types/node": "22",
 		"@types/react": "19.1.6",
-		"@types/react-dom": "19.1.5",
+		"@types/react-dom": "19.1.6",
 		"typescript": "5.8.3",
 		"react-router-devtools": "5.0.6",
 		"vite-tsconfig-paths": "5.1.4"
